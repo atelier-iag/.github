@@ -4,6 +4,8 @@
 
 Construire une compréhension **pratique et comparable** des [principales approches vers l’AGI](./AGI_voies_pratique.md), puis utiliser cette base pour identifier des combinaisons et des questions de recherche intéressantes.
 
+Les laboratoires suivent le [contrat commun](https://github.com/atelier-iag/.github/blob/main/LAB_CONTRACT.md), qui définit leur structure et leur progression.
+
 ## Plan général
 
 1. **Construire le [workbench commun](./AGI_Workbench_Commun.md)**
